@@ -9,7 +9,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 
-BOT_API_KEY = '7220671584:AAGqcdjNaJJnl1a8zwRZPqRtHyP8HcWjwE4'
+BOT_API_KEY = '7381965667:AAGDfzKBi6SKYcNPldk3mWfjwRBX-fkE3J8'
 OWNER_ID = 2110320288
 
 
